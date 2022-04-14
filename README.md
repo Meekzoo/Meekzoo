@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meekzoo
 - 👀 I’m interested in Ruby, Python, and some HTML
-- 🌱 I’m currently learning Algebra :(
+- 🌱 I’m currently learning Lua (cringe)
 - 💞️ I’m looking to collaborate on nothing right now
 
 <!---
